@@ -36,3 +36,6 @@ p, .text-profile {
   background-color: #404040
   color: #FFFFFF
 }
+img {
+  border: 3px solid #000000
+}
