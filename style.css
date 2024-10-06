@@ -14,3 +14,25 @@ p, .text-profile {
   margin: 20px;
   color: #000000;
 }
+.navbar {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.navbar a{
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #808080;
+  color: #000000;
+}
+.navbar a.active{
+  background-color: #404040
+  color: #FFFFFF
+}
