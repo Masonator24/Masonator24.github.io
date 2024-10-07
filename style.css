@@ -1,7 +1,8 @@
+/* This sets the background color for the website */
 body {
   background-color: #B0C4DE;
 }
-
+/* This styles the profile picture */
 .profile {
   width: 150px;
   height: auto;
@@ -9,16 +10,19 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+/* This styles the paragraphs for the website */
 p, .text-profile {
   display: flex;
   align-items: center;
   margin: 20px;
   color: #000000;
 }
+/* This styles the navbar for the website */
 .navbar {
   background-color: #000000;
   overflow: hidden;
 }
+/* This styles the navbar links for the website */
 
 .navbar a{
   float: left;
@@ -28,7 +32,7 @@ p, .text-profile {
   text-decoration: none;
   font-size: 17px;
 }
-
+/* Hover effect for the links */
 .navbar a:hover {
   background-color: #808080;
   color: #000000;
@@ -37,6 +41,7 @@ p, .text-profile {
   background-color: #404040
   color: #FFFFFF
 }
+/* This styles images */
 img {
   border: 3px solid #000000;
   margin-left:auto;
