@@ -38,8 +38,8 @@ p, .text-profile {
   color: #000000;
 }
 .navbar a.active{
-  background-color: #404040
-  color: #FFFFFF
+  background-color: #404040;
+  color: #FFFFFF;
 }
 /* This styles the KSU image */
 img {
